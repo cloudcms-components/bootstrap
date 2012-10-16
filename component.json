@@ -34,7 +34,7 @@
   "_id": "bootstrap@2.1.1",
 
 
-  "main": ["bootstrap.js", "css/bootstrap.css", "css/bootstrap-responsive.css"]
+  "main": ["bootstrap.js", "css/bootstrap.css", "css/bootstrap-responsive.css"],
     "dependencies": {
         "jquery": "*"
     }

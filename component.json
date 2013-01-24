@@ -1,12 +1,12 @@
 {
   "name": "bootstrap",
   "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
-  "version": "2.1.1",
+  "version": "2.2.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/twitter/bootstrap.git"
   },
-  "main": ["bootstrap.js", "css/bootstrap.css", "css/bootstrap-responsive.css"],
+  "main": ["js/bootstrap.js", "css/bootstrap.css", "css/bootstrap-responsive.css"],
   "dependencies": {
 	"jquery": "*"
   }
